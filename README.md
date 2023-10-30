@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**Rutiquewiski/Rutiquewiski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at EY
 - 🤔 I’m looking for help with relocation
 - 📫 How to reach me: gustavo.rutiquewiski@outlook.com
