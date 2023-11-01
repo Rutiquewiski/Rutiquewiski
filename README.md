@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at EY
-- 🤔 I’m looking for help with relocation
+- 🤔 I’m looking for international experience
 - 📫 How to reach me: gustavo.rutiquewiski@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was a professional Chef
