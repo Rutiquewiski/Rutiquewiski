@@ -7,11 +7,6 @@
 - ⚡ Fun fact: I was a professional Chef
 
 
-<div align="center">
-  <a href="https://github.com/Rutiquewiski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rutiquewiski&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rutiquewiski&theme=radical"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
